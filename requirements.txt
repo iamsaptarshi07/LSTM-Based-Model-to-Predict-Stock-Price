@@ -1,0 +1,9 @@
+plotly
+scikit-learn
+numpy
+jax[cuda12]
+pandas
+yfinance
+keras-tuner
+pydot
+graphviz
